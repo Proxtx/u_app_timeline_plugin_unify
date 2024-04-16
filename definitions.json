@@ -1,0 +1,29 @@
+{
+  "methods": {
+    "registerTimelineEvent": {
+      "name": "Register Timeline Event",
+      "arguments": [
+        {
+          "type": "text",
+          "name": "Unify Url",
+          "placeholder": "https://example.com"
+        },
+        {
+          "type": "text",
+          "name": "App Name",
+          "placeholder": "AppName"
+        },
+        {
+          "type": "text",
+          "name": "Method",
+          "placeholder": "Method"
+        },
+        {
+          "type": "text",
+          "name": "Arguments",
+          "placeholder": "Arguments"
+        }
+      ]
+    }
+  }
+}
